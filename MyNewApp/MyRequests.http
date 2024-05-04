@@ -5,9 +5,9 @@ Content-Type: application/json
 
 {
     "id":2,
-    "name":"Write demo",
-    "dueDate":"2023-12-31",
-    "isCompleted":true
+    "name":"Write a 2 demo",
+    "dueDate":"2024-11-20",
+    "isCompleted":false
 }
 ###
 GET http://localhost:5129/todos/2
